@@ -1,6 +1,6 @@
 name: Build Tomcat
 
-on: [workflow_dispach]
+on: [push]
 
 jobs:
   build:
